@@ -19,4 +19,7 @@
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\2OLIDTS-EdgarPerez-04py\2OLIDTS-EdgarPerez-04py\_2OLIDTS_EdgarPerez_04py.py" />
+  </ItemGroup>
 </Project>

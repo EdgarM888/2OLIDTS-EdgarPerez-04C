@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="2OLIDTS-EdgarPerez-04c.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\2OLIDTS-EdgarPerez-04py\2OLIDTS-EdgarPerez-04py\_2OLIDTS_EdgarPerez_04py.py" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
